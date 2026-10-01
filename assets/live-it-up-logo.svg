@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 420" role="img" aria-label="Live It Up Event Planning">
+<rect width="620" height="420" fill="white"/>
+<g transform="translate(310 78)" fill="none" stroke-linecap="round">
+<circle cx="0" cy="-30" r="7" fill="#ff4f55" stroke="none"/><circle cx="-42" cy="-10" r="5" fill="#ff8a1f" stroke="none"/><circle cx="42" cy="-12" r="5" fill="#ff8a1f" stroke="none"/><circle cx="64" cy="12" r="4" fill="#06285c" stroke="none"/>
+<path d="M-8 25 Q-22 2 -30 -8 M8 25 Q22 2 30 -8" stroke="#ff4f55" stroke-width="7"/><path d="M-2 28 L0 -4" stroke="#ff8a1f" stroke-width="6"/><path d="M-25 34 L-47 20 M25 34 L47 20" stroke="#00a6a6" stroke-width="5"/><path d="M-35 45 L-60 42 M35 45 L60 42" stroke="#ff8a1f" stroke-width="6"/>
+</g>
+<text x="310" y="220" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="92" letter-spacing="20" fill="#06285c">LIVE</text>
+<text x="385" y="305" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="92" letter-spacing="14" fill="#06285c">UP</text>
+<text x="218" y="282" text-anchor="middle" font-family="cursive" font-size="76" font-style="italic" fill="#ff4f55">it</text>
+<text x="310" y="365" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600" letter-spacing="14" fill="#06285c">EVENT PLANNING</text>
+</svg>

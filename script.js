@@ -43,6 +43,12 @@ if (inquiryForm) {
 
       if (!response.ok) throw new Error('Form submission failed');
 
+      if (typeof gtag === 'function') {
+        gtag('event', 'generate_lead', {
+          method: 'contact_form'
+        });
+      }
+
       inquiryForm.classList.add('submitted');
       formStatus.classList.add('show');
       formStatus.scrollIntoView({ behavior: 'smooth', block: 'center' });
